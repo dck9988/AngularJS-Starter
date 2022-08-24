@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-angularjs-starter",
+  "description": "Boilerplate code for a website using Bootstrap 3.3 and AngularJS",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^3.3",
+    "components-font-awesome": "4.7.0",
+    "angular": "^1.7.2",
+    "angular-route": "^1.7.2",
+    "moment": "^2.22.2",
+    "angular-sanitize": "^1.7.2"
+  },
+  "resolutions": {
+    "jquery": "^3.3.1"
+  }
+}
